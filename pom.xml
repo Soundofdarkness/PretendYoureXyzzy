@@ -12,7 +12,7 @@
 
   <scm>
     <url>https://github.com/Soundofdarkness/PretendYoureXyzzy/</url>
-    <connection>scm:git:ssh://git@github.com/Soundofdarkness/PretendYoureXyzzy.git</connection>
+    <connection>scm:git:http://github.com/Soundofdarkness/PretendYoureXyzzy.git</connection>
   </scm>
   
   <properties>
