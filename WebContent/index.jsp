@@ -38,7 +38,7 @@ to, for instance, display the number of connected players.
 <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
-<div class="Heading">
+<div class="heading">
 <h1>
   Pretend You're <dfn style="border-bottom: 1px dotted black"
   title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
