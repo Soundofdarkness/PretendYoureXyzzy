@@ -3,6 +3,6 @@ body {
 
 }
 .heading h1{
-    background: lightblue;
-    font-family: fantasy;
+    color: rebeccapurple;
+    font-family: 'Share Tech Mono';
 }

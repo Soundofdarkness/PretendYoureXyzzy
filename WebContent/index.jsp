@@ -36,6 +36,7 @@ to, for instance, display the number of connected players.
 <title>Pretend You're Xyzzy</title>
 <jsp:include page="analytics.jsp" />
 <link rel="stylesheet" href="css/index.css">
+<link href='//fonts.googleapis.com/css?family=Share Tech Mono' rel='stylesheet'>
 </head>
 <body>
 <div class="heading">
