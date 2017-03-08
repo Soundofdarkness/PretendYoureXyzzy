@@ -41,7 +41,7 @@ to, for instance, display the number of connected players.
 <body>
 <div class="heading">
 <h1>
-  Pretend You're <dfn style="border-bottom: 1px dotted black"
+  Pretend You're <dfn style="border-bottom: 1px dotted darkmagenta"
   title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
   Xyzzy</dfn>
 </h1>
