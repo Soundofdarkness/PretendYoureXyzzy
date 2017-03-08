@@ -3,6 +3,7 @@ body {
 
 }
 .heading h1{
+    display: block;
     color: rebeccapurple;
     font-family: 'Share Tech Mono';
     margin: auto;
