@@ -1,3 +1,8 @@
 body {
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(251,166,225,1)), color-stop(56%, rgba(253,137,215,1)), color-stop(100%, rgba(255,124,216,1)));
+    background: lavender;
+
+}
+Heading h1{
+    background: lightblue;
+    font-family: fantasy;
 }

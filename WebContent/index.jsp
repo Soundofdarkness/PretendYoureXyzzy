@@ -38,26 +38,17 @@ to, for instance, display the number of connected players.
 <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
+<div class="Heading">
 <h1>
   Pretend You're <dfn style="border-bottom: 1px dotted black"
   title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
   Xyzzy</dfn>
 </h1>
 <h3>A Cards Against Humanity clone.</h3>
+</div>
 <p>
   <input type="button" value="I have read the above; Take me to the game!"
     onclick="window.location='game.jsp';" />
-</p>
-<p>
-  Pretend You're Xyzzy is a Cards Against Humanity clone, which is available at
-  <a href="http://www.cardsagainsthumanity.com/">cardsagainsthumanity.com</a>, where you can buy it
-  or download and print it out yourself. It is distributed under a
-  <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons - Attribution -
-  Noncommercial - Share Alike license</a>. This web version is in no way endorsed or sponsored by
-  cardsagainsthumanity.com. You may download the source code to this version from
-  <a href="https://github.com/ajanata/PretendYoureXyzzy">GitHub</a>. For full license
-  information, including information about included libraries, see the
-  <a href="license.html">full license information</a>.
 </p>
 </body>
 </html>
