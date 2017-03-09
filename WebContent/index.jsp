@@ -48,7 +48,7 @@ to, for instance, display the number of connected players.
 <h3>A Cards Against Humanity clone.</h3>
 </div>
 <p>
-  <input type="button" value="I have read the above; Take me to the game!"
+  <input type="button" value="Let's Go !'"
     onclick="window.location='game.jsp';" />
 </p>
 </body>
