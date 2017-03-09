@@ -37,18 +37,20 @@ to, for instance, display the number of connected players.
 <jsp:include page="analytics.jsp" />
 <link rel="stylesheet" href="css/index.css">
 <link href='//fonts.googleapis.com/css?family=Share Tech Mono' rel='stylesheet'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 </head>
 <body>
 <div class="heading">
-<h1>
+<h1 class="animated zoomIn">
   Pretend You're <dfn style="border-bottom: 1px dotted darkmagenta"
-  title="Xyzzy is an Artificial Unintelligence bot. You'll be making more sense than him in this game.">
+  title="Xyzzy is an Artificial Unintelligence bot, short AUI. You'll be making more sense than her in this game.">
   Xyzzy</dfn>
 </h1>
-<h3>A Cards Against Humanity clone.</h3>
+<h3>A Cards Against Humanity clone. <br />
+	But of course on a higher level. </h3>
 </div>
 <p>
-  <input type="button" value="Let's Go !'"
+  <input class="button" type="button" value="Let's find out !"
     onclick="window.location='game.jsp';" />
 </p>
 </body>
