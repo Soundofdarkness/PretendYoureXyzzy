@@ -1,3 +1,5 @@
+[![Build Status](http://eleria.de:8081/job/PretendYourXyzzy/badge/icon)](http://eleria.de:8081/job/PretendYourXyzzy/)
+
 Pretend You're Xyzzy
 ===================
 
